@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "sukiru",
-      "source": "./plugins/sukiru",
+      "source": { "source": "git-subdir", "url": "wfawcett/sukiru", "path": "plugins/sukiru" },
       "description": "Clarity-first plugin set. Start every project with a clear intention, not assumptions."
     }
   ]
