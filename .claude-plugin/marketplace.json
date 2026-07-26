@@ -1,13 +1,22 @@
 {
   "name": "sukiru",
   "owner": {
-    "name": "Sukiru"
+    "name": "Sukiru",
+    "email": "wfawcett@gmail.com"
+  },
+  "metadata": {
+    "description": "Clarity-first plugin set. Start every project with a clear intention, not assumptions.",
+    "version": "0.1.0"
   },
   "plugins": [
     {
       "name": "sukiru",
-      "source": { "source": "git-subdir", "url": "wfawcett/sukiru", "path": "plugins/sukiru" },
-      "description": "Clarity-first plugin set. Start every project with a clear intention, not assumptions."
+      "version": "0.1.0",
+      "description": "Clarity-first plugin set. Start every project with a clear intention, not assumptions.",
+      "source": {
+        "source": "github",
+        "repo": "wfawcett/sukiru"
+      }
     }
   ]
 }

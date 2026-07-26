@@ -1,7 +1,8 @@
 {
   "name": "sukiru",
-  "description": "Clarity-first plugin set. Start every project with a clear intention, not assumptions.",
   "version": "0.1.0",
+  "description": "Clarity-first plugin set. Start every project with a clear intention, not assumptions.",
+  "entrypoint": "./skills/intent/SKILL.md",
   "author": {
     "name": "Sukiru"
   },
