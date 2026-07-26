@@ -1,0 +1,13 @@
+{
+  "name": "sukiru",
+  "owner": {
+    "name": "Sukiru"
+  },
+  "plugins": [
+    {
+      "name": "sukiru",
+      "source": "./plugins/sukiru",
+      "description": "Clarity-first plugin set. Start every project with a clear intention, not assumptions."
+    }
+  ]
+}
